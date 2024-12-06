@@ -9,7 +9,6 @@
     "@sap/cds": "^8",
     "express": "^4",
     "@cap-js/hana": "^1",
-    "@cap-js/notifications": "*",
     "@sap/xssec": "^4"
   },
   "devDependencies": {
@@ -35,7 +34,10 @@
       "deploy-format": "hdbtable"
     },
     "requires": {
-     
+      "auth": "xsuaa",
+      "db": {
+        "kind": "hana"
+      },
       "connectivity": true,
       "destinations": true
       

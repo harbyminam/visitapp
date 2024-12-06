@@ -14,7 +14,7 @@ annotate visit_set.visit_registration with @(UI: {
         },
         {
             $Type: 'UI.DataField',
-            Value: reasonId.name,
+            Value: reasonId,
             Label: '{i18n>reasonId}',
         },
         {
@@ -37,7 +37,7 @@ annotate visit_set.visit_registration with @(UI: {
         vendorId.vendorName,
         customerId.customerName,
         date,
-        reasonId.name,
+        reasonId,
         status
     ],
 });

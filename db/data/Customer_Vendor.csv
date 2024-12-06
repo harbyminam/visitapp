@@ -1,6 +1,0 @@
-relationshipId,customerId_customerId,vendorId_vendorId,assignmentDate,status,createdAt,createdBy,modifiedAt,modifiedBy
-R001,C001,V001,"2024-01-15 09:00:00",Active
-R002,C002,V002,"2024-02-20 10:00:00",Inactive
-R003,C003,V003,"2024-03-25 11:00:00",Active
-R004,C004,V004,"2024-04-30 12:00:00",Inactive
-R005,C005,V005,"2024-05-10 13:00:00",Active

@@ -1,6 +1,0 @@
-adressId,customerId_customerId,description,city,country,coordinates
-A001,C001,Home Address,New York,US,"40.7128° N, 74.0060° W"
-A002,C002,Office Address,London,GB,"51.5074° N, 0.1278° W"
-A003,C003,Home Address,Los Angeles,US,"34.0522° N, 118.2437° W"
-A004,C004,Home Address,Madrid,ES,"40.4168° N, 3.7038° W"
-A005,C005,Office Address,Berlin,DE,"52.5200° N, 13.4050° E"

@@ -45,7 +45,7 @@ entity Visit_registration {
     key vendorId    : Association to Vendor;
         AddressId   : String(36);
         observation : LargeString;
-        reasonId    : Association to one Reason;
+        reasonId    : String(36);
         date        : Timestamp @cds.on.insert : $now;
         status      : String enum {
             Active   = 'A';
