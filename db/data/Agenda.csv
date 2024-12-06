@@ -1,0 +1,6 @@
+agentId,customerId_customerId,vendorId_vendorId,addressId_adressId,visitDate,note,status
+A001,C001,V001,A001,"2024-12-01 10:00:00","Initial consultation on product features",Activa
+A002,C002,V002,A002,"2024-12-02 14:00:00","Review of design proposal",Inactiva
+A003,C003,V003,A003,"2024-12-03 09:00:00","Setup of new project site",Activa
+A004,C004,V004,A004,"2024-12-04 11:00:00","Meeting to finalize terms",Inactiva
+A005,C005,V005,A005,"2024-12-05 16:00:00","Final review and inspection",Activa

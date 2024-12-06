@@ -1,0 +1,6 @@
+customerId,customerName,email,phoneNumber
+C001,John Doe,john.doe@example.com,+1234567890
+C002,Jane Smith,jane.smith@example.com,+0987654321
+C003,Robert Brown,robert.brown@example.com,+1122334455
+C004,Emily White,emily.white@example.com,+2233445566
+C005,Michael Green,michael.green@example.com,+3344556677

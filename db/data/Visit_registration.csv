@@ -1,0 +1,6 @@
+visitId,wordayId,customerId_customerId,vendorId_vendorId,AddressId,observation,reasonId_reasonId,date,status
+V001,W001,C001,V001,A001,Initial consultation,R001,"2024-12-01 10:00:00",A
+V002,W002,C002,V002,A002,Design review,R002,"2024-12-02 14:00:00",I
+V003,W003,C003,V003,A003,Site visit for project setup,R003,"2024-12-03 09:00:00",A
+V004,W004,C004,V004,A004,Follow-up meeting,R004,"2024-12-04 11:00:00",I
+V005,W005,C005,V005,A005,Final inspection,R005,"2024-12-05 16:00:00",A
